@@ -11,7 +11,7 @@
 			<label for="prenom">Votre Mail</label>
 			<input type="email" name="mail" id="prenom" placeholder="mail" required aria-required="true">
 			<label for="prenom">Votre message</label>
-			<textarea name="commentaire" id="" cols="30" rows="10"></textarea>
+			<input type="text" name="commentaire" id="commentaire" placeholder="commentaire" required aria-required="true">
 			<input type="submit" value="Envoyer">
 			
 		</form>
