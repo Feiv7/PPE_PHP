@@ -105,6 +105,7 @@ section h2, div h2{
 .grid-icone > ul li{
 	width: calc(50% / 4 );
 	line-height:50%;
+	margin: auto;
 }
 
 section ul{
