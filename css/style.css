@@ -38,7 +38,7 @@ body{
 ul li{
 	display: inline-block;
 	font-size: 1.6rem;
-	max-width: 20rem;
+	width: 20rem;
 	text-align: center;
 	line-height: 4.5rem;
 	
