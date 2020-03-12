@@ -3,6 +3,7 @@
 	<h2>Contact</h2>
 		<form action="./contact.php" method="post">
 			<!--<label for="Cursus">Cursus</label>-->
+			<label for="Cursus"></label>
 			<input type="text" name="Cursus" id="Cursus" placeholder="Cursus">
 			<!--<label for="nom">Nom</label>-->
 			<input type="text" name="nom" id="nom" placeholder="nom" required aria-required="true" autofocus>

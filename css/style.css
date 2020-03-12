@@ -156,10 +156,7 @@ section [placeholder]{
 section [placeholder]:focus{
 	background: #FFCDD2;
 }
-section textarea{
-	border: solid 0.1rem #ccc;
-	resize: none;
-}
+
 section input[type="submit"]{
 	border:0;
 	margin-top:0.5rem;
