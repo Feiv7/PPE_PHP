@@ -103,7 +103,7 @@ section h2, div h2{
 	margin-top: 1rem;
 }
 .grid-icone > ul li{
-	width: calc(50% / 4 );
+	width: calc(50% / 4 +1rem);
 	line-height:50%;
 	display: inline-block;
 }
