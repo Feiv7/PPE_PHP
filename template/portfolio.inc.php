@@ -1,14 +1,16 @@
 <section>
-	<h2>Cursus &amp; formations</h2>
-		<p>Tous nos cursus tournent au tour du développement web et application. Vous trouverez pour vos choix 
+	<h2>Programmes</h2>
+		<p>Tous nos programmes sportif tournent au tour de plusieurs sports différents. Vous trouverez pour vos choix 
 			toutes les informations ci-dessous :
 		</p>
 	<h2>Développement &amp; web-design</h2>
 		<ul>
-			<li>Développeur front : html, css et Ecmascript 6, 7, 8. 400H</li>
-			<li>Développeur back : php et SQL 300H</li>
-			<li>Webdesign : UX et créa 200H</li>
-			<li>Webmarketing : 150H</li>
+			<li>Natation</li>
+			<li>Tennis</li>
+			<li>Cyclisme</li>
+			<li>Equitation</li>
+			<li>Athlétisme</li>
+			<li>Fitness</li>
 		</ul>
 </section>
 <div class="grid-img">
