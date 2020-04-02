@@ -130,6 +130,7 @@ section h2::before{
 	content: '\f044';
 	font-family: 'Font Awesome 5 Free';
 	margin-right: 0.5rem;
+	color: rgb(40, 197, 29);
 }
 section ul li::before{
 	content: '\f1c9';
