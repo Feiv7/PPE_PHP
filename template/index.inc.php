@@ -12,9 +12,9 @@
 <div class="grid-img">
 	<h2>Nos compus en France</h2>
 	<ul>
-		<li><img src="./asset/ambiance_01.jpg" alt="Paris" /></li>
-		<li><img src="./asset/nantes.jpg" alt="Nantes" /></li>
-		<li><img src="./asset/bordeaux.jpg" alt="Bordeaux" /></li>
+		<li><img src="./asset/intro1.jpg" alt="Paris" /></li>
+		<li><img src="./asset/intro2.jpg" alt="Nantes" /></li>
+		<li><img src="./asset/intro3.jpg" alt="Bordeaux" /></li>
 	</ul>
 </div>
 <!--icones-->
