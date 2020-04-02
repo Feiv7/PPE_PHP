@@ -73,7 +73,7 @@ section p{
 	background: #fafafa;
 }
 section h2, div h2{
-	background: #2962FF;
+	background: rgb(217, 230, 36);
 	padding:1rem;
 	line-height: 3.5rem;
 	color: #fafafa;
