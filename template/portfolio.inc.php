@@ -3,7 +3,7 @@
 		<p>Tous nos programmes sportif tournent au tour de plusieurs sports différents. Vous trouverez pour vos choix 
 			toutes les informations ci-dessous :
 		</p>
-	<h2>Développement &amp; web-design</h2>
+	<h2>Sports</h2>
 		<ul>
 			<li>Natation</li>
 			<li>Tennis</li>
